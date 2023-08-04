@@ -2,3 +2,8 @@
 backend/node_modules
 backend/.env
 backend/dist
+
+
+# Frontend
+frontend/.next
+frontend/node_modules
